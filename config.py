@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Токен бота из .env файла
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8446202695:AAGQfE-7q52aIx7nLsGtK22V2P6YruwxhUs")
 
 # Админ ID
 ADMIN_IDS = [123456789]  # Замени на свой ID
@@ -32,4 +32,5 @@ MENU = {
         "Калифорния": 700,
         "Ролл с угрем": 850
     }
+
 }
